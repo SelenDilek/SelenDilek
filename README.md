@@ -1,4 +1,13 @@
-## Software Development Engineer in Test 👋 SELEN DILEK
+##                  Software Development Engineer in Test 👋 SELEN DILEK
+
+<h2 align="center"> About Me</h2>
+
+				- 👨‍💻 I am a Software Development Engineer in Test from United States.
+				- 🔭 I’m currently working on Eypes and Mersys.
+				- 🌱 I’m currently learning testing tools and exploring technical content writing.
+				- ⚡ In my free time, I solve problems on HackerRank, StackOverflow and read tech articles.
+			
+
 
 ### 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
