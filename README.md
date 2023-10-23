@@ -20,11 +20,6 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
-
-
-
-
-
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SelenDilek&theme=dark&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SelenDilek&theme=dark&hide_border=false)<br/>
@@ -33,4 +28,10 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=SelenDilek&limit=5&theme=dark&combine_all_yearly_contributions=true)
 ![](https://github.com/BEPb/BEPb/raw/output/github-contribution-grid-snake.svg)
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+<h2> <p align="center"> Keep coding! 💻 Stay awesome! ✨ </p></h2>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
