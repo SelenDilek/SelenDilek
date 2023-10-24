@@ -4,7 +4,7 @@
 
 				- 👨‍💻 I am a Software Development Engineer in Test from United States.
 				- 🔭 I’m currently working on Eypes and Mersys.
-				- 🌱 I’m currently learning testing tools and exploring technical content writing.
+				- 🌱 I’m learning testing tools and exploring technical content writing.
 				- ⚡ In my free time, I solve problems on HackerRank, StackOverflow and read tech articles.
 			
 
